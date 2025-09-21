@@ -1,4 +1,6 @@
-1. Amigo secreto
+                                            #Amigo Secreto
+                                        ##Challenge Alura Latam
+1. Descripcion del proyecto
 Este proyecto es una aplicacion web simple que permite  agregar nombres a  una lista y realizar un sorteo aleatorio para  elegir un amigo secreto.
 2. Estructura del proyecto 
     - mindex.html → Contiene la estructura principal de la página.
